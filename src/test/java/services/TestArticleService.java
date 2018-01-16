@@ -23,13 +23,6 @@ import static org.hamcrest.CoreMatchers.is;
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.junit.Assert.*;
 
-/**
- * Created by
- *
- * @author Belkevich V.A.
- *         17.02.2017 12:01
- */
-
 @RunWith(SpringJUnit4ClassRunner.class)
 @ContextConfiguration(classes = {TestJPAConfig.class})
 @WebAppConfiguration
