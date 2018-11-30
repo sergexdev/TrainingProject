@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: services.TestArticleService
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.467 sec - in services.TestArticleService
